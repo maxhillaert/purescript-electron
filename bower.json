@@ -30,7 +30,6 @@
   },
   "devDependencies": {
     "purescript-console": "^3.0.0",
-    "purescript-spec": "^2.0.0",
-    "purescript-node-process": "^5.0.0"
+    "purescript-spec": "^2.0.0"
   }
 }
